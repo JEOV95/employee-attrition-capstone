@@ -1,0 +1,21 @@
+Department: Sales | Count: 82 | Attrition: 16 | P: 0.57 | R: 0.81 | F1: 0.67
+Department: Research & Development | Count: 197 | Attrition: 29 | P: 0.40 | R: 0.48 | F1: 0.44
+Department: Human Resources | Count: 15 | Attrition: 2 | P: 0.50 | R: 0.50 | F1: 0.50
+Gender: Female | Count: 116 | Attrition: 16 | P: 0.34 | R: 0.62 | F1: 0.44
+Gender: Male | Count: 178 | Attrition: 31 | P: 0.58 | R: 0.58 | F1: 0.58
+MaritalStatus: Single | Count: 97 | Attrition: 25 | P: 0.58 | R: 0.72 | F1: 0.64
+MaritalStatus: Married | Count: 133 | Attrition: 18 | P: 0.42 | R: 0.44 | F1: 0.43
+MaritalStatus: Divorced | Count: 64 | Attrition: 4 | P: 0.20 | R: 0.50 | F1: 0.29
+EducationField: Life Sciences | Count: 127 | Attrition: 14 | P: 0.36 | R: 0.57 | F1: 0.44
+EducationField: Other | Count: 20 | Attrition: 6 | P: 0.86 | R: 1.00 | F1: 0.92
+EducationField: Medical | Count: 100 | Attrition: 14 | P: 0.42 | R: 0.57 | F1: 0.48
+EducationField: Marketing | Count: 25 | Attrition: 6 | P: 0.71 | R: 0.83 | F1: 0.77
+EducationField: Technical Degree | Count: 17 | Attrition: 7 | P: 0.25 | R: 0.14 | F1: 0.18
+JobRole: Sales Executive | Count: 53 | Attrition: 8 | P: 0.70 | R: 0.88 | F1: 0.78
+JobRole: Research Scientist | Count: 72 | Attrition: 18 | P: 0.48 | R: 0.61 | F1: 0.54
+JobRole: Laboratory Technician | Count: 44 | Attrition: 4 | P: 0.22 | R: 0.50 | F1: 0.31
+JobRole: Manufacturing Director | Count: 32 | Attrition: 3 | P: 0.00 | R: 0.00 | F1: 0.00
+JobRole: Healthcare Representative | Count: 23 | Attrition: 3 | P: 0.50 | R: 0.33 | F1: 0.40
+JobRole: Sales Representative | Count: 23 | Attrition: 8 | P: 0.46 | R: 0.75 | F1: 0.57
+JobRole: Research Director | Count: 17 | Attrition: 1 | P: 0.00 | R: 0.00 | F1: 0.00
+JobRole: Human Resources | Count: 11 | Attrition: 2 | P: 0.50 | R: 0.50 | F1: 0.50
