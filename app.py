@@ -89,13 +89,13 @@ elif page == "Feature Analysis":
     feat_imp = pd.DataFrame({
         'Feature': feature_names,
         'Importance': importances
-    }).sort_values('Importance', ascending=False).head(20)
+    }).sort_values('Importance', ascending=False).head(21)
 
-    st.subheader("Top 20 Feature Importances")
+    st.subheader("Top 21 Feature Importances")
     fig, ax = plt.subplots(figsize=(10, 8))
     sns.barplot(data=feat_imp, x='Importance', y='Feature',
                 hue='Feature', palette='coolwarm', legend=False, ax=ax)
-    ax.set_title('Top 20 Feature Importances - Random Forest')
+    ax.set_title('Top 21 Feature Importances - Random Forest')
     ax.set_xlabel('Importance Score')
     plt.tight_layout()
     st.pyplot(fig)
